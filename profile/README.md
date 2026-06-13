@@ -2,12 +2,7 @@
 
 Pay with Monero. Get a temporary environment. It destroys itself when you're done. No account, no email, no data retained.
 
-~/wrf > your privacy counts.
-
-**Repos**
-
-- **clnrm-web-app** — reference web client. Typed API layer, WebSocket queue, H.264 streaming via WebCodecs. Public.
-- **cleanroom** — backend. FastAPI, Monero wallet RPC, Android container orchestration. Private.
+> ~/wrf > your privacy counts.
 
 **Why**
 
@@ -21,4 +16,4 @@ Pay-as-you-go, per-minute billing in XMR. No subscriptions. No KYC. No refunds b
 
 Beta. Live at [getcleanroom.xyz](https://getcleanroom.xyz). API at [api.getcleanroom.xyz](https://api.getcleanroom.xyz/docs).
 
-© 2026 CleanRoom Labs
+_© 2026 CleanRoom Labs_
