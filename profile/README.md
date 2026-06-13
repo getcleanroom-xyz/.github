@@ -1,4 +1,4 @@
-CleanRoom Labs builds disposable, private compute.
+**CleanRoom Labs** builds disposable, private compute.
 
 Pay with Monero. Get a temporary environment. It destroys itself when you're done. No account, no email, no data retained.
 
